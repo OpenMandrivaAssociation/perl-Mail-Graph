@@ -1,7 +1,7 @@
 %define	module	Mail-Graph
 %define	name	perl-%{module}
 %define	version	0.14
-%define	release	%mkrel 5
+%define	release	%mkrel 6
 
 Name:		%{name}
 Version:	%{version}
