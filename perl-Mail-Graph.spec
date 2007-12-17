@@ -20,7 +20,6 @@ BuildRequires:	perl-MIME-tools
 BuildRequires:	perl(Date::Calc)
 BuildRequires:  perl(Compress::Zlib)
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 This module parses mailbox files in either compressed or uncompressed form and
